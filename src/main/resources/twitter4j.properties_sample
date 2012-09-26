@@ -1,0 +1,5 @@
+debug=true
+oauth.consumerKey=<CHANGEME>
+oauth.consumerSecret=<CHANGEME>
+oauth.accessToken=<CHANGEME>
+oauth.accessTokenSecret=<CHANGEME>

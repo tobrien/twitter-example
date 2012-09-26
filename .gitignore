@@ -1,0 +1,16 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+data/
+log/
+freebase-person.tsv
+
+.classpath
+.project
+.settings
+
+target/
